@@ -1,4 +1,5 @@
 # CSCI-1000-repo
-learning github
+Welcome 
+This reposetory is by Aaron Cole Nick
 
-Aaron cole nick
+We are learning how to use github and work in groups
